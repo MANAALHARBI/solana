@@ -35,7 +35,7 @@
     "prettier": "^2.8.8",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "rehype-katex": "^4.0.0",
+    "rehype-katex": "^6.0.3",
     "remark-math": "^3.0.1"
   },
   "browserslist": {
